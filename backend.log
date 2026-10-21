@@ -1,0 +1,127 @@
+2026-02-20 12:39:57 | INFO | Image Captioning Studio backend starting …
+2026-02-20 12:41:45 | INFO | Image validated: Screenshot 2025-12-25 190335.png | size=(788, 422) | mode=RGB
+2026-02-20 12:41:45 | INFO | Loading YOLO model: yolov8n.pt
+2026-02-20 12:42:00 | INFO | YOLO model loaded.
+2026-02-20 12:42:06 | INFO | YOLO detected 4 objects.
+2026-02-20 12:42:06 | INFO | Loading BLIP model: Salesforce/blip-image-captioning-base …
+2026-02-20 12:58:11 | INFO | BLIP decoder ready.
+2026-02-20 13:00:06 | INFO | Image Captioning Studio backend shutting down.
+2026-02-20 13:00:23 | INFO | Image Captioning Studio backend starting …
+2026-02-20 13:01:06 | INFO | Image validated: Screenshot 2025-12-25 190335.png | size=(788, 422) | mode=RGB
+2026-02-20 13:01:06 | INFO | Loading BLIP model: Salesforce/blip-image-captioning-base …
+2026-02-20 13:01:08 | INFO | BLIP decoder ready.
+2026-02-20 13:01:36 | INFO | Image validated: Screenshot 2025-12-25 190335.png | size=(788, 422) | mode=RGB
+2026-02-20 13:01:36 | INFO | Loading YOLO model: yolov8n.pt
+2026-02-20 13:01:37 | INFO | YOLO model loaded.
+2026-02-20 13:01:40 | INFO | YOLO detected 4 objects.
+2026-02-20 13:03:04 | INFO | Image validated: Screenshot 2025-12-25 190335.png | size=(788, 422) | mode=RGB
+2026-02-20 13:03:04 | INFO | YOLO detected 4 objects.
+2026-02-20 13:03:31 | INFO | Image validated: Screenshot 2025-12-25 190335.png | size=(788, 422) | mode=RGB
+2026-02-20 13:03:31 | INFO | YOLO detected 4 objects.
+2026-02-20 13:03:58 | INFO | Image validated: Screenshot 2025-12-25 190335.png | size=(788, 422) | mode=RGB
+2026-02-20 13:03:58 | INFO | YOLO detected 4 objects.
+2026-02-20 13:03:58 | INFO | Loading ResNet50 encoder …
+2026-02-20 13:05:29 | INFO | ResNet50 encoder ready.
+2026-02-20 13:05:30 | INFO | Initialising LSTM+Attention decoder …
+2026-02-20 13:05:30 | INFO | LSTM decoder ready (random weights – load trained weights for real captions).
+2026-02-20 13:07:41 | INFO | Image Captioning Studio backend shutting down.
+2026-02-20 13:08:33 | INFO | Image Captioning Studio backend starting …
+2026-02-20 13:08:33 | INFO | Image Captioning Studio backend shutting down.
+2026-02-20 13:09:24 | INFO | Image Captioning Studio backend starting …
+2026-02-20 13:11:16 | INFO | Image validated: image.jpg | size=(1280, 960) | mode=RGB
+2026-02-20 13:11:16 | INFO | Loading YOLO model: yolov8n.pt
+2026-02-20 13:11:16 | INFO | YOLO model loaded.
+2026-02-20 13:11:19 | INFO | YOLO detected 10 objects.
+2026-02-20 13:11:19 | INFO | Loading ViT encoder: google/vit-base-patch16-224 …
+2026-02-20 13:17:24 | INFO | ViT encoder ready.
+2026-02-20 13:17:26 | INFO | Initialising Transformer decoder …
+2026-02-20 13:17:26 | INFO | Transformer decoder ready (random weights).
+2026-02-20 13:17:32 | INFO | Image Captioning Studio backend shutting down.
+2026-02-20 13:17:47 | INFO | Image Captioning Studio backend starting …
+2026-02-20 13:18:14 | INFO | Image validated: image.jpg | size=(1280, 960) | mode=RGB
+2026-02-20 13:18:14 | INFO | Loading YOLO model: yolov8n.pt
+2026-02-20 13:18:15 | INFO | YOLO model loaded.
+2026-02-20 13:18:18 | INFO | YOLO detected 10 objects.
+2026-02-20 13:18:18 | INFO | Loading ViT encoder: google/vit-base-patch16-224 …
+2026-02-20 13:18:19 | INFO | ViT encoder ready.
+2026-02-20 13:18:22 | INFO | Initialising Transformer decoder …
+2026-02-20 13:18:22 | INFO | Transformer decoder ready (random weights).
+2026-02-20 13:19:00 | INFO | Image Captioning Studio backend shutting down.
+2026-02-20 14:44:46 | INFO | Image Captioning Studio backend starting …
+2026-02-20 14:45:24 | INFO | Image validated: image.jpg | size=(1280, 960) | mode=RGB
+2026-02-20 14:45:24 | INFO | Loading YOLO model: yolov8n.pt
+2026-02-20 14:45:25 | INFO | YOLO model loaded.
+2026-02-20 14:45:27 | INFO | YOLO detected 10 objects.
+2026-02-20 14:45:27 | INFO | Loading ViT encoder: google/vit-base-patch16-224 …
+2026-02-20 14:45:29 | INFO | ViT encoder ready.
+2026-02-20 14:45:31 | INFO | Initialising Transformer decoder …
+2026-02-20 14:45:31 | INFO | Transformer decoder ready (random weights).
+2026-02-20 14:46:59 | INFO | Image validated: image.jpg | size=(1280, 960) | mode=RGB
+2026-02-20 14:47:00 | INFO | YOLO detected 10 objects.
+2026-02-20 14:47:00 | INFO | Loading BLIP model: Salesforce/blip-image-captioning-base …
+2026-02-20 14:47:04 | INFO | BLIP decoder ready.
+2026-02-20 14:48:15 | INFO | Image validated: image.jpg | size=(1280, 960) | mode=RGB
+2026-02-20 14:48:15 | INFO | YOLO detected 10 objects.
+2026-02-20 14:48:32 | INFO | Image validated: image.jpg | size=(1280, 960) | mode=RGB
+2026-02-20 14:48:32 | INFO | YOLO detected 10 objects.
+2026-02-20 14:49:05 | INFO | Image validated: image.jpg | size=(1280, 960) | mode=RGB
+2026-02-20 14:49:05 | INFO | YOLO detected 10 objects.
+2026-02-20 14:49:06 | INFO | Loading CLIP encoder: openai/clip-vit-base-patch32 …
+2026-02-20 14:58:04 | INFO | CLIP encoder ready.
+2026-02-20 14:58:05 | INFO | Initialising LSTM+Attention decoder …
+2026-02-20 14:58:05 | INFO | LSTM decoder ready (random weights – load trained weights for real captions).
+2026-02-20 14:59:34 | INFO | Image Captioning Studio backend shutting down.
+2026-02-20 14:59:40 | INFO | Image Captioning Studio backend starting …
+2026-02-20 15:00:27 | INFO | Image validated: image.jpg | size=(1280, 960) | mode=RGB
+2026-02-20 15:00:27 | INFO | Loading YOLO model: yolov8n.pt
+2026-02-20 15:00:28 | INFO | YOLO model loaded.
+2026-02-20 15:00:31 | INFO | YOLO detected 10 objects.
+2026-02-20 15:00:32 | INFO | Loading CLIP encoder: openai/clip-vit-base-patch32 …
+2026-02-20 15:00:34 | INFO | CLIP encoder ready.
+2026-02-20 15:00:36 | INFO | Initialising LSTM+Attention decoder …
+2026-02-20 15:00:36 | INFO | LSTM decoder ready (random weights – load trained weights for real captions).
+2026-02-20 15:01:05 | INFO | Image validated: image.jpg | size=(1280, 960) | mode=RGB
+2026-02-20 15:01:05 | INFO | YOLO detected 10 objects.
+2026-02-20 15:01:05 | INFO | Loading ViT encoder: google/vit-base-patch16-224 …
+2026-02-20 15:01:07 | INFO | ViT encoder ready.
+2026-02-25 09:18:31 | INFO | Image Captioning Studio backend starting …
+2026-02-25 09:18:31 | INFO | Image Captioning Studio backend shutting down.
+2026-02-25 09:18:57 | INFO | Image Captioning Studio backend starting …
+2026-02-25 09:19:59 | INFO | Image validated: group_photo.jpeg | size=(1280, 960) | mode=RGB
+2026-02-25 09:19:59 | INFO | Loading YOLO model: yolov8n.pt
+2026-02-25 09:20:01 | INFO | YOLO model loaded.
+2026-02-25 09:20:08 | INFO | YOLO detected 10 objects.
+2026-02-25 09:20:09 | INFO | Loading BLIP model: Salesforce/blip-image-captioning-base …
+2026-02-25 09:20:13 | INFO | BLIP decoder ready.
+2026-03-11 14:48:14 | INFO | Image Captioning Studio backend starting …
+2026-03-11 14:49:21 | INFO | Image validated: 0265877d-090f-486c-8dd2-40446a560dd5.jpg | size=(853, 1280) | mode=RGB
+2026-03-11 14:49:21 | INFO | Loading BLIP model: Salesforce/blip-image-captioning-base …
+2026-03-11 14:49:30 | INFO | BLIP decoder ready.
+2026-03-11 14:50:57 | INFO | Image validated: 0265877d-090f-486c-8dd2-40446a560dd5.jpg | size=(853, 1280) | mode=RGB
+2026-03-11 14:50:57 | INFO | Loading YOLO model: yolov8n.pt
+2026-03-11 14:51:01 | INFO | YOLO model loaded.
+2026-03-11 14:51:13 | INFO | YOLO detected 1 objects.
+2026-03-11 14:52:35 | INFO | Image validated: e2cf497d-d618-45be-98b6-f8395c715167.jpg | size=(913, 1301) | mode=RGB
+2026-03-11 14:52:36 | INFO | YOLO detected 2 objects.
+2026-03-11 14:55:19 | INFO | Image validated: e2cf497d-d618-45be-98b6-f8395c715167.jpg | size=(913, 1301) | mode=RGB
+2026-03-11 14:55:20 | INFO | YOLO detected 2 objects.
+2026-03-11 14:57:25 | INFO | Image validated: a1a693ee-6f24-4000-bfd1-c1a570ca3b36.jpg | size=(1206, 1387) | mode=RGB
+2026-03-11 14:57:26 | INFO | YOLO detected 1 objects.
+2026-03-11 15:02:26 | INFO | Image validated: b55bde59-8246-41a8-98a2-f6eb7ba39300.jpg | size=(864, 1184) | mode=RGB
+2026-03-11 15:02:28 | INFO | YOLO detected 1 objects.
+2026-03-11 15:04:18 | INFO | Image validated: 0596bcc4-9dc6-443b-b330-c9949d3a22eb.jpg | size=(1206, 1258) | mode=RGB
+2026-03-11 15:04:19 | INFO | YOLO detected 5 objects.
+2026-03-11 15:06:17 | INFO | Image validated: eb66f272-58e5-4ad1-86f4-ca376b99c5a6.jpg | size=(960, 1280) | mode=RGB
+2026-03-11 15:06:18 | INFO | YOLO detected 1 objects.
+2026-03-11 15:08:08 | INFO | Image validated: e2cf497d-d618-45be-98b6-f8395c715167.jpg | size=(913, 1301) | mode=RGB
+2026-03-11 15:08:10 | INFO | YOLO detected 2 objects.
+2026-03-12 10:44:43 | INFO | Image Captioning Studio backend starting …
+2026-03-12 10:45:48 | INFO | Image validated: 9f2a6a93-67ff-4007-9fe1-e15b13daf49a.jpg | size=(647, 347) | mode=RGB
+2026-03-12 10:45:48 | INFO | Loading YOLO model: yolov8n.pt
+2026-03-12 10:45:52 | INFO | YOLO model loaded.
+2026-03-12 10:45:56 | INFO | YOLO detected 1 objects.
+2026-03-12 10:45:56 | INFO | Loading BLIP model: Salesforce/blip-image-captioning-base …
+2026-03-12 10:46:01 | INFO | BLIP decoder ready.
+2026-03-12 10:55:06 | INFO | Image validated: adbd8874-58b7-4a63-b1f8-be4365f5ebfc.jpg | size=(588, 330) | mode=RGB
+2026-03-12 10:55:07 | INFO | YOLO detected 6 objects.
+2026-03-12 11:02:02 | INFO | Image validated: adbd8874-58b7-4a63-b1f8-be4365f5ebfc.jpg | size=(588, 330) | mode=RGB
